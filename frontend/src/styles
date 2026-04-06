@@ -1,0 +1,10 @@
+# Estilos CSS
+- globals.css
+- components/
+  - Header.css
+  - Sidebar.css
+  - Dashboard.css
+- pages/
+  - Login.css
+  - Dashboard.css
+  - Billeteras.css

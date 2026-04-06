@@ -1,0 +1,6 @@
+# Acceso a datos (Spring Data JPA)
+- UsuarioRepository.java
+- BilleteraRepository.java
+- TransaccionRepository.java
+- OperacionProgramadaRepository.java
+- NotificacionRepository.java

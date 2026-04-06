@@ -1,0 +1,29 @@
+# Componentes React
+- common/
+  - Header.jsx
+  - Footer.jsx
+  - Sidebar.jsx
+  - Loading.jsx
+- auth/
+  - Login.jsx
+  - Register.jsx
+- dashboard/
+  - Dashboard.jsx
+  - Resumen.jsx
+- billetera/
+  - BilleteraList.jsx
+  - BilleteraDetail.jsx
+  - CrearBilletera.jsx
+- transaccion/
+  - TransaccionList.jsx
+  - RealizarTransaccion.jsx
+  - TransaccionDetail.jsx
+- operacion/
+  - OperacionProgramadaList.jsx
+  - ProgramarOperacion.jsx
+- notificacion/
+  - NotificacionList.jsx
+  - AlertaComponent.jsx
+- reporte/
+  - ReporteDashboard.jsx
+  - AnalisisGraficos.jsx

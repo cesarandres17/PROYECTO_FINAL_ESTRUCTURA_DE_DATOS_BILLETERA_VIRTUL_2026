@@ -1,0 +1,7 @@
+# Data Transfer Objects
+- UsuarioDTO.java
+- BilleteraDTO.java
+- TransaccionDTO.java
+- OperacionProgramadaDTO.java
+- NotificacionDTO.java
+- ReporteDTO.java

@@ -1,0 +1,9 @@
+# Lógica de negocio
+- UsuarioService.java
+- BilleteraService.java
+- TransaccionService.java
+- OperacionProgramadaService.java
+- NotificacionService.java
+- ReporteService.java
+- RecompensaService.java
+- AnalisisService.java

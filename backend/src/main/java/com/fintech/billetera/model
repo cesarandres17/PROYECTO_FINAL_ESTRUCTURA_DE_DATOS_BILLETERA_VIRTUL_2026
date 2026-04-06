@@ -1,0 +1,8 @@
+# Entidades JPA
+- Usuario.java
+- Billetera.java
+- Transaccion.java
+- OperacionProgramada.java
+- Notificacion.java
+- Recompensa.java
+- Alerta.java

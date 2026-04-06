@@ -1,0 +1,6 @@
+# Manejo de excepciones
+- GlobalExceptionHandler.java
+- UsuarioNotFoundException.java
+- BilleteraNotFoundException.java
+- SaldoInsuficienteException.java
+- TransaccionInvalidaException.java

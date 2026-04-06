@@ -1,0 +1,18 @@
+# Implementaciones de estructuras de datos
+- listas/
+  - ListaTransacciones.java
+  - ListaNotificaciones.java
+- pilas/
+  - PilaOperacionesReversibles.java
+- colas/
+  - ColaOperacionesProgramadas.java
+  - ColaNotificacionesPendientes.java
+- arboles/
+  - ArbolUsuariosPorPuntos.java
+  - ArbolNivelesFidelizacion.java
+- tablashash/
+  - TablaHashUsuarios.java
+  - TablaHashBilleteras.java
+- grafos/
+  - GrafoTransferencias.java
+  - AnalisisRelacionesFinancieras.java
